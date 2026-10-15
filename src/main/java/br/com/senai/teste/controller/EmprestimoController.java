@@ -20,7 +20,7 @@ import br.com.senai.teste.model.Emprestimo;
 import br.com.senai.teste.service.EmprestimoService;
 import jakarta.validation.Valid;
 
-@RestController
+@RestController 
 @RequestMapping("/emprestimos")
 public class EmprestimoController {
 
